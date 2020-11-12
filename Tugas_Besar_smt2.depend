@@ -1,0 +1,271 @@
+# depslib dependency file v1.0
+1587973317 source:d:\tugas_besar_smt2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Parent_TB.h"
+	"Child_TB.h"
+	"multilist1-N_TB.h"
+	"Rel_J.h"
+	<time.h>
+
+1587972604 d:\tugas_besar_smt2\parent_tb.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1587776928 source:d:\tugas_besar_smt2\parent_tb.cpp
+	"Parent_TB.h"
+	<iostream>
+
+1587969240 source:d:\tugas_besar_smt2\child_tb.cpp
+	"Child_TB.h"
+	<iostream>
+
+1587970211 d:\tugas_besar_smt2\child_tb.h
+	<iostream>
+	"Parent_TB.h"
+
+1587968278 d:\tugas_besar_smt2\multilist1-n_tb.h
+	"Parent_TB.h"
+	"Child_TB.h"
+
+1587973285 source:d:\tugas_besar_smt2\multilist1-n_tb.cpp
+	"multilist1-N_TB.h"
+	<iostream>
+
+1586874205 source:d:\tugas_besar_smt2\ril.cpp
+
+1587967271 source:d:\tugas_besar_smt2\child_2tb.cpp
+	"Child2_TB.h"
+	<iostream>
+
+1587967156 d:\tugas_besar_smt2\child2_tb.h
+	<iostream>
+	"Parent_TB.h"
+
+1587973573 source:d:\tugas_besar_smt2\child_jasa.cpp
+	"Child_Jasa.h"
+	<iostream>
+
+1587972549 d:\tugas_besar_smt2\child_jasa.h
+	<iostream>
+	"Parent_TB.h"
+
+1587973192 source:d:\tugas_besar_smt2\relasi-jasa.cpp
+	"Rel_J.h"
+	<iostream>
+
+1587969546 d:\tugas_besar_smt2\rel_j.h
+	"Parent_TB.h"
+	"Child_Jasa.h"
+
+1587973573 source:c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\child_jasa.cpp
+	"Child_Jasa.h"
+	<iostream>
+
+1587972549 c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\child_jasa.h
+	<iostream>
+	"Parent_TB.h"
+
+1587972604 c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\parent_tb.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1587969240 source:c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\child_tb.cpp
+	"Child_TB.h"
+	<iostream>
+
+1587970211 c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\child_tb.h
+	<iostream>
+	"Parent_TB.h"
+
+1587990053 source:c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Parent_TB.h"
+	"Child_TB.h"
+	"multilist1-N_TB.h"
+	"Rel_J.h"
+	<time.h>
+
+1587968278 c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\multilist1-n_tb.h
+	"Parent_TB.h"
+	"Child_TB.h"
+
+1587969546 c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\rel_j.h
+	"Parent_TB.h"
+	"Child_Jasa.h"
+
+1587988439 source:c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\multilist1-n_tb.cpp
+	"multilist1-N_TB.h"
+	<iostream>
+
+1587776928 source:c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\parent_tb.cpp
+	"Parent_TB.h"
+	<iostream>
+
+1587973192 source:c:\users\indira\pictures\tugas_besar_smt2\tugas_besar_smt2\relasi-jasa.cpp
+	"Rel_J.h"
+	<iostream>
+
+1587973573 source:d:\tugas_besar_smt2_ok\tugas_besar_smt2\child_jasa.cpp
+	"Child_Jasa.h"
+	<iostream>
+
+1587972549 d:\tugas_besar_smt2_ok\tugas_besar_smt2\child_jasa.h
+	<iostream>
+	"Parent_TB.h"
+
+1587972604 d:\tugas_besar_smt2_ok\tugas_besar_smt2\parent_tb.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1587969240 source:d:\tugas_besar_smt2_ok\tugas_besar_smt2\child_tb.cpp
+	"Child_TB.h"
+	<iostream>
+
+1587970211 d:\tugas_besar_smt2_ok\tugas_besar_smt2\child_tb.h
+	<iostream>
+	"Parent_TB.h"
+
+1588029316 source:d:\tugas_besar_smt2_ok\tugas_besar_smt2\multilist1-n_tb.cpp
+	"multilist1-N_TB.h"
+	<iostream>
+
+1588029369 d:\tugas_besar_smt2_ok\tugas_besar_smt2\multilist1-n_tb.h
+	"Parent_TB.h"
+	"Child_TB.h"
+
+1588030390 source:d:\tugas_besar_smt2_ok\tugas_besar_smt2\parent_tb.cpp
+	"Parent_TB.h"
+	<iostream>
+
+1587973192 source:d:\tugas_besar_smt2_ok\tugas_besar_smt2\relasi-jasa.cpp
+	"Rel_J.h"
+	<iostream>
+
+1587969546 d:\tugas_besar_smt2_ok\tugas_besar_smt2\rel_j.h
+	"Parent_TB.h"
+	"Child_Jasa.h"
+
+1588030604 source:d:\tugas_besar_smt2_ok\tugas_besar_smt2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Parent_TB.h"
+	"Child_TB.h"
+	"multilist1-N_TB.h"
+	<time.h>
+
+1587969240 source:c:\users\indira\music\new winrar zip archive (2)\tugas_besar_smt2_ok\tugas_besar_smt2\child_tb.cpp
+	"Child_TB.h"
+	<iostream>
+
+1587970211 c:\users\indira\music\new winrar zip archive (2)\tugas_besar_smt2_ok\tugas_besar_smt2\child_tb.h
+	<iostream>
+	"Parent_TB.h"
+
+1587972604 c:\users\indira\music\new winrar zip archive (2)\tugas_besar_smt2_ok\tugas_besar_smt2\parent_tb.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1588030644 source:c:\users\indira\music\new winrar zip archive (2)\tugas_besar_smt2_ok\tugas_besar_smt2\multilist1-n_tb.cpp
+	"multilist1-N_TB.h"
+	<iostream>
+
+1588029369 c:\users\indira\music\new winrar zip archive (2)\tugas_besar_smt2_ok\tugas_besar_smt2\multilist1-n_tb.h
+	"Parent_TB.h"
+	"Child_TB.h"
+
+1588225098 source:c:\users\indira\music\new winrar zip archive (2)\tugas_besar_smt2_ok\tugas_besar_smt2\parent_tb.cpp
+	"Parent_TB.h"
+	<iostream>
+
+1588223867 source:c:\users\indira\music\new winrar zip archive (2)\tugas_besar_smt2_ok\tugas_besar_smt2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Parent_TB.h"
+	"Child_TB.h"
+	"multilist1-N_TB.h"
+	<time.h>
+
+1588908236 source:d:\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\child_tb.cpp
+	"Child_TB.h"
+	<iostream>
+
+1588908172 d:\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\child_tb.h
+	<iostream>
+	"Parent_TB.h"
+
+1587972604 d:\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\parent_tb.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1588910577 source:d:\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Parent_TB.h"
+	"Child_TB.h"
+	"multilist1-N_TB.h"
+	<time.h>
+
+1588910591 d:\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\multilist1-n_tb.h
+	"Parent_TB.h"
+	"Child_TB.h"
+
+1588910758 source:d:\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\multilist1-n_tb.cpp
+	"multilist1-N_TB.h"
+	<iostream>
+
+1588865760 source:d:\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\parent_tb.cpp
+	"Parent_TB.h"
+	<iostream>
+
+1588908236 source:c:\users\indira\pictures\tubes_indira\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\child_tb.cpp
+	"Child_TB.h"
+	<iostream>
+
+1588908172 c:\users\indira\pictures\tubes_indira\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\child_tb.h
+	<iostream>
+	"Parent_TB.h"
+
+1587972604 c:\users\indira\pictures\tubes_indira\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\parent_tb.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1588910577 source:c:\users\indira\pictures\tubes_indira\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Parent_TB.h"
+	"Child_TB.h"
+	"multilist1-N_TB.h"
+	<time.h>
+
+1588910591 c:\users\indira\pictures\tubes_indira\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\multilist1-n_tb.h
+	"Parent_TB.h"
+	"Child_TB.h"
+
+1588910758 source:c:\users\indira\pictures\tubes_indira\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\multilist1-n_tb.cpp
+	"multilist1-N_TB.h"
+	<iostream>
+
+1588865760 source:c:\users\indira\pictures\tubes_indira\tubes_indira\tugas_besar_smt2_ok\tugas_besar_smt2\parent_tb.cpp
+	"Parent_TB.h"
+	<iostream>
+
